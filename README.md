@@ -14,7 +14,7 @@ In this action-packed game, you and your friends will battle it out in tanks acr
 ## Getting Started
 
 1. **Download** the game from the releases section.
-2. **Install** the game by following the on-screen instructions.
+2. **Unpack** the game in a preferable folder.
 3. **Start the Server** by running it with two command line arguments: `ip:port` and the name of the map.
 4. **Launch** the game and start battling!
 
