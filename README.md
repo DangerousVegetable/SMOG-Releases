@@ -23,7 +23,7 @@ In this action-packed game, you and your friends will battle it out in tanks acr
 
 ## How to Play
 
-- **Controls**: Use the WASD + Q/E + SPACE keys to move your tank and the mouse to aim and shoot.
+- **Controls**: Use the WASD + Q/E + SPACE keys to move your tank and the mouse + SHIFT to aim and shoot.
 - **Objective**: Destroy your opponents' tanks while navigating the particle world.
 
 ---
