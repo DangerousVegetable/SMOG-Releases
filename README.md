@@ -4,6 +4,9 @@ Welcome to **SMOG**!
 
 In this action-packed game, you and your friends will battle it out in tanks across a world entirely made of particles. Experience insane physics and dynamic environments as you strategize and fight for victory!
 
+![image](https://github.com/user-attachments/assets/beb89bdb-be07-465b-95de-7619ed0df329)
+
+
 ## Features
 
 - **Multiplayer Battles**: Challenge your friends in intense tank battles.
